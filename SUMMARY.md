@@ -1,7 +1,7 @@
-# Оглавление
+# Table of contents
 
-* [Оглавление](./)
-* [Космоэнергетика](kosmoenergetika/)
+* [Оглавление](README.md)
+* [Космоэнергетика](kosmoenergetika/README.md)
   * [О нашей школе](kosmoenergetika/o-nashei-shkole.md)
   * [Описание работы чакр](kosmoenergetika/opisanie-raboty-chakr.md)
   * [Тонкое тело человека](kosmoenergetika/tonkoe-telo-cheloveka.md)
