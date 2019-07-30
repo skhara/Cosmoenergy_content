@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Оглавление](README.md)
-* [Космоэнергетика](kosmoenergetika/README.md)
-  * [О нашей школе](kosmoenergetika/o-nashei-shkole.md)
-  * [Описание работы чакр](kosmoenergetika/opisanie-raboty-chakr.md)
-  * [Тонкое тело человека](kosmoenergetika/tonkoe-telo-cheloveka.md)
-  * [Техника проведения сеанса](kosmoenergetika/tekhnika-provedeniya-seansa.md)
-  * [Блоки посвещений](kosmoenergetika/bloki-posveshenii.md)
-* [Буддийский блок](buddiiskii-blok.md)
-* [Магистровый блок](magistrovyi-blok.md)
-* [Иные каналы](inye-kanaly.md)
+* [О нашей школе](o-nashei-shkole.md)
+* [Тонкое тело человека](tonkoe-telo-cheloveka.md)
+* [Описание работы чакр](opisanie-raboty-chakr.md)
+* [Техника проведения сеанса](tekhnika-provedeniya-seansa.md)
+* [Каналы лечебного блока](buddiiskii-blok.md)
+* [Каналы Магического блока](bloki-posveshenii.md)
+* [Блоки посвящения](magistrovyi-blok.md)
+* [Контакты для связи](untitled.md)
+* [...](kosmoenergetika.md)
 
