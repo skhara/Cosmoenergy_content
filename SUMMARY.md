@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Оглавление](README.md)
-* [О нашей школе](o-nashei-shkole.md)
+* [О космоэнергетике](o-nashei-shkole.md)
 * [Тонкое тело человека](tonkoe-telo-cheloveka.md)
 * [Описание работы чакр](opisanie-raboty-chakr.md)
 * [Техника проведения сеанса](tekhnika-provedeniya-seansa.md)
